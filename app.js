@@ -10,4 +10,15 @@ function agregarAmigo() {
         console.log(amigos);
         document.querySelector("#amigo").value = "";
     }
+
+    updateListaAmigos();
+}
+
+function updateListaAmigos() {
+    let listaAmigos = document.querySelector("#listaAmigos");
+    listaAmigos.innerHTML = "";
+    
+    for (let i = 0; i < amigos.length; i++) {
+        listaAmigos.innerHTML += `<li>${amigos[i]}`;
+    }
 }
