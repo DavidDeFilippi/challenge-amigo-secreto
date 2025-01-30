@@ -16,5 +16,9 @@ El proyecto "Challenge Amigo Secreto" es una aplicación diseñada para organiza
 1. Clona el repositorio.
 3. Ejecuta la aplicación localmente.
 
+### GitHub Pages
+
+Puedes acceder a la aplicación en funcionamiento a través de GitHub Pages en el siguiente enlace: [Challenge Amigo Secreto](https://daviddefilippi.github.io/challenge-amigo-secreto/)
+
 ¡Disfruta organizando tu intercambio de regalos con esta aplicación!
 
